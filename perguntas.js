@@ -1,23 +1,23 @@
 criaCartao(
-    'Felicidades',
-    'O que precisa para ser feliz?',
-    ' Fazer o que gosta!!!'
+    'Matue',
+    'Qual foi o ultimo album do matue',
+    '333'
 )
 
 criaCartao(
-    'Informática',
-    'Qual o melhor canal para aprender informática',
-    '@rasinformática'
+    'Matue',
+    'Quem é Matue',
+    'Matuê é um rapper e cantor brasileiro, bastante conhecido na cena do trap e rap nacional'
 )
 
 criaCartao(
-    'Qual é a melhor turma do CERB',
-    'A que mais se dedica as aulas do Prof. Rafael?',
+    'Tue',
+    'Qual a melhor musica do matue',
     'Estou em dúvida'
 )
 
 criaCartao(
-    'Ganhando o Mundo',
-    'Quem participou do Programa Ganhado o mundo em 2024?',
-    'Eloisa Amorim dos Santos 👏👏👏'
+    '30',
+    'Oque é  a 30',
+    'A 30 é um dos álbuns mais conhecidos de Matuê, lançado em 2020💜💜💜'
 )
